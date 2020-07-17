@@ -1,6 +1,7 @@
 # Introduction
 
 July 2020: The interactive exploration of US Bike Share data has been implemented in a simple GUI application using tkinter.
+This project is part of the Nanodegree Program "Programming for Data Science with Python" on Udacity
 
 # Usage
 
@@ -26,6 +27,7 @@ Run the application with:
 - `chicago.csv`
 - `new_york_city.csv`
 - `washington.csv`
+
 These files can be found in this archive from [Udacity](https://video.udacity-data.com/topher/2018/March/5aab379c_bikeshare-2/bikeshare-2.zip). The install.sh script downloads and unpacks them automatically.
 
 The application window has:
@@ -33,6 +35,8 @@ The application window has:
 - A "Load Data" button for updating the statistics along the right side of the window
 - A "Print Data" button to print the raw data in the terminal
 - A "Quit" button to terminate the application
+- Statistics displayed along the left side
+- A status bar at the bottom to prompt the user and indicate when a task has been completed
 
 ![Screenshot!](screenshot.png)
 
