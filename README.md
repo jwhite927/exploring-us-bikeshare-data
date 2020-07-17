@@ -34,6 +34,8 @@ The application window has:
 - A "Print Data" button to print the raw data in the terminal
 - A "Quit" button to terminate the application
 
+![Screenshot!](screenshot.png)
+
 # Moving Forward
 
 Most of the code in bikeshare.py defines the layout of the GUI. I've done my best to clean this code and break it out into smaller functions. If I were to futher develop this application, I would break this out into another module in order to make it more manageable.
