@@ -6,13 +6,19 @@ July 2020: The interactive exploration of US Bike Share data has been implemente
 
 ## Dependencies
 
+- Python 3
+
 ## Installation
 
+Download csv files from Udacity with:
+
+`$ sh install.sh`
 
 ## Run
 
 Run the application with:
-`python bikeshare.py`
+
+`$ python3 bikeshare.py`
 
 ## Operation
 
@@ -27,7 +33,6 @@ The application window has:
 - A "Load Data" button for updating the statistics along the right side of the window
 - A "Print Data" button to print the raw data in the terminal
 - A "Quit" button to terminate the application
-
 
 # Moving Forward
 
