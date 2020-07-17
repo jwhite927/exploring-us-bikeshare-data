@@ -1,8 +1,5 @@
-### Date created
-This project was completed in July 2020.
-
-### Description
-The interactive exploration of US Bike Share data has been implemented in a simple GUI application using tkinter.
+# Introduction
+July 2020: The interactive exploration of US Bike Share data has been implemented in a simple GUI application using tkinter.
 
 The application window has:
 - Radio buttons along the left side of the window for selecting filters
@@ -13,19 +10,22 @@ The application window has:
 Most of the code in bikeshare.py defines the layout of the GUI. I've done my best to clean this code and break it out into smaller functions. If I were to futher develop this application, I would break this out into another module in order to make it more manageable.
 
 ### Files used
-Include the files used
+The .csv files with the 
+https://video.udacity-data.com/topher/2018/March/5aab379c_bikeshare-2/bikeshare-2.zip
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+# Credits
 
-
-
+## tkinter
 
 The Standard Library documentation for tkinter can be found at:
 https://docs.python.org/3/library/tkinter.html
 
+## Black
+
 Black has been used for code formatting. More information can be found at:
 https://pypi.org/project/black/
+
+## Pylint
 
 Pylint has been used for style checking. The following lints were set aside to maintain the simplicity of the project:
 - C0301: Line too long
