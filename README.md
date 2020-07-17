@@ -4,19 +4,23 @@ July 2020: The interactive exploration of US Bike Share data has been implemente
 
 # Usage
 
-## Download data files
+## Dependencies
 
-`bikeshare.py` loads data from:
-- `chicago.csv`
-- `new_york_city.csv`
-- `washington.csv`
+## Installation
 
-These files can be found in this archive from [Udacity](https://video.udacity-data.com/topher/2018/March/5aab379c_bikeshare-2/bikeshare-2.zip).
 
 ## Run
 
 Run the application with:
 `python bikeshare.py`
+
+## Operation
+
+`bikeshare.py` loads data from:
+- `chicago.csv`
+- `new_york_city.csv`
+- `washington.csv`
+These files can be found in this archive from [Udacity](https://video.udacity-data.com/topher/2018/March/5aab379c_bikeshare-2/bikeshare-2.zip). The install.sh script downloads and unpacks them automatically.
 
 The application window has:
 - Radio buttons along the left side of the window for selecting filters
