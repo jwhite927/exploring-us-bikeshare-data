@@ -54,3 +54,7 @@ Most of the code in bikeshare.py defines the layout of the GUI. I've done my bes
     - R0913: Too many arguments
     - R0901: Too many ancestors
     - R0902: Too many instance attributes
+
+# License
+
+This project is licensed under the [MIT License](LICENSE)
