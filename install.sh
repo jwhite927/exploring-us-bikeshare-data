@@ -10,3 +10,4 @@ unzip temp.zip chicago.csv new_york_city.csv washington.csv
 rm temp.zip
 
 # Notify user that files have been downloaded
+echo "CSV Data Downloaded!"
